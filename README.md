@@ -30,3 +30,6 @@ http://127.0.0.1:8000/docs
 - logging_middleware/
 - vehicle_maintence_scheduler/
 - notification_system_design.md
+
+## Output Screenshots
+
